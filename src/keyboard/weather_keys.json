@@ -1,0 +1,40 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+        "action": {
+          "type": "text",
+          "label": "сейчас"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "сегодня"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "завтра"
+        },
+        "color": "primary"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "на неделю"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Отменить"
+      },
+      "color": "negative"
+    }]
+  ]
+}

@@ -1,0 +1,350 @@
+[
+  [
+    "/country/moskva/",
+    "Москва"
+  ],
+  [
+    "/country/moskovskaya_oblast/",
+    "Московская обл."
+  ],
+  [
+    "/country/sankt_peterburg/",
+    "Санкт-Петербург"
+  ],
+  [
+    "/country/nizhegorodskaya_oblast/",
+    "Нижегородская обл."
+  ],
+  [
+    "/country/sverdlovskaya_oblast/",
+    "Свердловская обл."
+  ],
+  [
+    "/country/rostovskaya_oblast/",
+    "Ростовская обл."
+  ],
+  [
+    "/country/khanty_mansiyskiy_avtonomnyy_okrug_yugra/",
+    "Ханты-Мансийский автономный округ - Югра"
+  ],
+  [
+    "/country/krasnoyarskiy_kray/",
+    "Красноярский край"
+  ],
+  [
+    "/country/voronezhskaya_oblast/",
+    "Воронежская обл."
+  ],
+  [
+    "/country/irkutskaya_oblast/",
+    "Иркутская обл."
+  ],
+  [
+    "/country/stavropolskiy_kray/",
+    "Ставропольский край"
+  ],
+  [
+    "/country/ulyanovskaya_oblast/",
+    "Ульяновская обл."
+  ],
+  [
+    "/country/yamalo_nenetskiy_avtonomnyy_okrug/",
+    "Ямало-Ненецкий автономный округ"
+  ],
+  [
+    "/country/saratovskaya_oblast/",
+    "Саратовская обл."
+  ],
+  [
+    "/country/volgogradskaya_oblast/",
+    "Волгоградская обл."
+  ],
+  [
+    "/country/murmanskaya_oblast/",
+    "Мурманская обл."
+  ],
+  [
+    "/country/arkhangelskaya_oblast/",
+    "Архангельская обл."
+  ],
+  [
+    "/country/chelyabinskaya_oblast/",
+    "Челябинская обл."
+  ],
+  [
+    "/country/altayskiy_kray/",
+    "Алтайский край"
+  ],
+  [
+    "/country/krasnodarskiy_kray/",
+    "Краснодарский край"
+  ],
+  [
+    "/country/orenburgskaya_oblast/",
+    "Оренбургская обл."
+  ],
+  [
+    "/country/novosibirskaya_oblast/",
+    "Новосибирская обл."
+  ],
+  [
+    "/country/respublika_dagestan/",
+    "Республика Дагестан"
+  ],
+  [
+    "/country/khabarovskiy_kray/",
+    "Хабаровский край"
+  ],
+  [
+    "/country/samarskaya_oblast/",
+    "Самарская обл."
+  ],
+  [
+    "/country/omskaya_oblast/",
+    "Омская обл."
+  ],
+  [
+    "/country/primorskiy_kray/",
+    "Приморский край"
+  ],
+  [
+    "/country/penzenskaya_oblast/",
+    "Пензенская обл."
+  ],
+  [
+    "/country/kemerovskaya_oblast_kuzbass/",
+    "Кемеровская обл. (Кузбасс)"
+  ],
+  [
+    "/country/permskiy_kray/",
+    "Пермский край"
+  ],
+  [
+    "/country/respublika_sakha_yakutiya/",
+    "Республика Саха (Якутия)"
+  ],
+  [
+    "/country/tyumenskaya_oblast/",
+    "Тюменская обл."
+  ],
+  [
+    "/country/respublika_komi/",
+    "Республика Коми"
+  ],
+  [
+    "/country/bryanskaya_oblast/",
+    "Брянская обл."
+  ],
+  [
+    "/country/tulskaya_oblast/",
+    "Тульская обл."
+  ],
+  [
+    "/country/kaluzhskaya_oblast/",
+    "Калужская обл."
+  ],
+  [
+    "/country/orlovskaya_oblast/",
+    "Орловская обл."
+  ],
+  [
+    "/country/tomskaya_oblast/",
+    "Томская обл."
+  ],
+  [
+    "/country/kirovskaya_oblast/",
+    "Кировская обл."
+  ],
+  [
+    "/country/belgorodskaya_oblast/",
+    "Белгородская обл."
+  ],
+  [
+    "/country/ivanovskaya_oblast/",
+    "Ивановская обл."
+  ],
+  [
+    "/country/yaroslavskaya_oblast/",
+    "Ярославская обл."
+  ],
+  [
+    "/country/leningradskaya_oblast/",
+    "Ленинградская обл."
+  ],
+  [
+    "/country/respublika_bashkortostan/",
+    "Республика Башкортостан"
+  ],
+  [
+    "/country/zabaykalskiy_kray/",
+    "Забайкальский край"
+  ],
+  [
+    "/country/kurskaya_oblast/",
+    "Курская обл."
+  ],
+  [
+    "/country/ryazanskaya_oblast/",
+    "Рязанская обл."
+  ],
+  [
+    "/country/respublika_buryatiya/",
+    "Республика Бурятия"
+  ],
+  [
+    "/country/kabardino_balkarskaya_respublika/",
+    "Кабардино-Балкарская Республика"
+  ],
+  [
+    "/country/chuvashskaya_respublika/",
+    "Чувашская Республика"
+  ],
+  [
+    "/country/tambovskaya_oblast/",
+    "Тамбовская обл."
+  ],
+  [
+    "/country/karachaevo_cherkesskaya_respublika/",
+    "Карачаево-Черкесская Республика"
+  ],
+  [
+    "/country/vladimirskaya_oblast/",
+    "Владимирская обл."
+  ],
+  [
+    "/country/respublika_tyva/",
+    "Республика Тыва"
+  ],
+  [
+    "/country/astrakhanskaya_oblast/",
+    "Астраханская обл."
+  ],
+  [
+    "/country/tverskaya_oblast/",
+    "Тверская обл."
+  ],
+  [
+    "/country/respublika_kalmykiya/",
+    "Республика Калмыкия"
+  ],
+  [
+    "/country/respublika_krym/",
+    "Республика Крым"
+  ],
+  [
+    "/country/smolenskaya_oblast/",
+    "Смоленская обл."
+  ],
+  [
+    "/country/respublika_tatarstan/",
+    "Республика Татарстан"
+  ],
+  [
+    "/country/udmurtskaya_respublika/",
+    "Удмуртская Республика"
+  ],
+  [
+    "/country/respublika_mordoviya/",
+    "Республика Мордовия"
+  ],
+  [
+    "/country/respublika_chuvashiya/",
+    "Республика Чувашия"
+  ],
+  [
+    "/country/lipetskaya_oblast/",
+    "Липецкая обл."
+  ],
+  [
+    "/country/sakhalinskaya_oblast/",
+    "Сахалинская обл."
+  ],
+  [
+    "/country/pskovskaya_oblast/",
+    "Псковская обл."
+  ],
+  [
+    "/country/respublika_ingushetiya/",
+    "Республика Ингушетия"
+  ],
+  [
+    "/country/respublika_severnaya_osetiya_alaniya/",
+    "Республика Северная Осетия — Алания"
+  ],
+  [
+    "/country/novgorodskaya_oblast/",
+    "Новгородская обл."
+  ],
+  [
+    "/country/kostromskaya_oblast/",
+    "Костромская обл."
+  ],
+  [
+    "/country/respublika_altay/",
+    "Республика Алтай"
+  ],
+  [
+    "/country/vologodskaya_oblast/",
+    "Вологодская обл."
+  ],
+  [
+    "/country/kaliningradskaya_oblast/",
+    "Калининградская обл."
+  ],
+  [
+    "/country/respublika_khakasiya/",
+    "Республика Хакасия"
+  ],
+  [
+    "/country/kemerovskaya_oblast/",
+    "Кемеровская обл."
+  ],
+  [
+    "/country/amurskaya_oblast/",
+    "Амурская обл."
+  ],
+  [
+    "/country/respublika_mariy_el/",
+    "Республика Марий Эл"
+  ],
+  [
+    "/country/respublika_kareliya/",
+    "Республика Карелия"
+  ],
+  [
+    "/country/kamchatskiy_kray/",
+    "Камчатский край"
+  ],
+  [
+    "/country/kurganskaya_oblast/",
+    "Курганская обл."
+  ],
+  [
+    "/country/respublika_adygeya/",
+    "Республика Адыгея"
+  ],
+  [
+    "/country/magadanskaya_oblast/",
+    "Магаданская обл."
+  ],
+  [
+    "/country/chechenskaya_respublika/",
+    "Чеченская Республика"
+  ],
+  [
+    "/country/sevastopol/",
+    "Севастополь"
+  ],
+  [
+    "/country/evreyskaya_avtonomnaya_oblast/",
+    "Еврейская автономная обл."
+  ],
+  [
+    "/country/nenetskiy_avtonomnyy_okrug/",
+    "Ненецкий автономный округ"
+  ],
+  [
+    "/country/chukotskiy_avtonomnyy_okrug/",
+    "Чукотский автономный округ"
+  ]
+]

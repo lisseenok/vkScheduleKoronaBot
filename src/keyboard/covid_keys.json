@@ -1,0 +1,27 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "по России"
+      },
+      "color": "primary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "по региону"
+      },
+      "color": "primary"
+    }
+    ],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Отменить"
+      },
+      "color": "negative"
+    }]
+  ]
+}

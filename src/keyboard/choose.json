@@ -1,0 +1,32 @@
+{
+    "one_time": true,
+    "buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "Москва"
+                },
+                "color": "primary"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "Московская обл."
+                },
+                "color": "primary"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "label": "отменить"
+                },
+                "color": "negative"
+            }
+        ]
+    ]
+}
